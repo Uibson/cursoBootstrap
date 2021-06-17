@@ -1,10 +1,18 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .navbar{
-  background-color: darkolivegreen;
+  background-color: darkorange;
   
 }
 .quemsomos{
-  background-color: gainsboro;
+  background-color: #EEEEEE;
+  color: orangered;
 }
 .margin{
   padding-top: 30px;
+  padding-bottom: 50px;
+}
+.parceiros{
+  background-color: cornflowerblue;
 }
